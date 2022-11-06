@@ -1,0 +1,31 @@
+[{
+    "name": "Basil",
+    "price": "3",
+    "taste": "Dry leaves"
+  },
+  {
+    "name": "Caper",
+    "price": "23",
+    "taste": "Special"
+  },
+  {
+    "name": "Nutmeg",
+    "price": "4",
+    "taste": "2 days of feeling sick"
+  },
+  {
+    "name": "Paprika",
+    "price": "65",
+    "taste": "Never tried"
+  },
+  {
+    "name": "Saffron",
+    "price": "56",
+    "taste": "Yellow mellow"
+  },
+  {
+    "name": "Thyme",
+    "price": "33",
+    "taste": "True love of mine"
+  }
+]
